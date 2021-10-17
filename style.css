@@ -27,6 +27,9 @@ div{
     font-variant: small-caps;
 
 }
+#image {
+    border-radius: 10px;
+}
 footer {
     color: white;
     text-align: center;
