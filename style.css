@@ -22,6 +22,11 @@ div{
     color:black;
     font-variant: small-caps;
 }
+#dayOfWeek {
+    color:black;
+    font-variant: small-caps;
+
+}
 footer {
     color: white;
     text-align: center;
