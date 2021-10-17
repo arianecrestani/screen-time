@@ -4,7 +4,6 @@ const loading = () => {
     const msg = document.getElementById('msg');
     const img = document.getElementById('image');
     const data = new Date()
-
     const time = data.getHours()+ ":" + data.getMinutes()
 
    
